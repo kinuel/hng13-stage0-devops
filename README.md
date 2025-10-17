@@ -1,4 +1,4 @@
-* HNG13 DevOps Stage 0 Project
+* Welcome to DevOps Stage 0 
 
 * Name:
 Emmanuel Stephen 
